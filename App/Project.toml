@@ -1,0 +1,10 @@
+name = "App"
+uuid = "f86f727c-0dd5-47ae-9eb4-d8b79fd3d565"
+authors = ["justin <jochalek125@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
